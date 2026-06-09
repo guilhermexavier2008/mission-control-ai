@@ -12,7 +12,7 @@ Ares Sentinel
 
 ## Nome da equipe
 
-Equipe Nebula
+Equipe 07
 
 ## Objetivo
 
